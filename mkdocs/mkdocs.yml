@@ -1,6 +1,9 @@
 site_name: Kubernetes Study Env
-site_url: https://example.com/
+site_url: https://bpgould.github.io/kubernetes-study-env/
 nav:
   - Home: index.md
   - Getting Started: getting-started.md
-theme: material
+theme:
+  name: material
+  palette:
+    primary: teal
